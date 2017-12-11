@@ -1,0 +1,39 @@
+{
+  "name": "aviation-edge",
+  "version": "1.0.1",
+  "description": "IATA and ICAO database with API key for airlines, airport, flight tracking, timetables and air routes. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leopieters/aviation-edge-api/"
+  },
+  "keywords": [
+    "flight",
+    "tracking",
+    "iata",
+    "icao",
+    "flight",
+    "database",
+    "airport",
+    "database",
+    "airline",
+    "database",
+    "airport",
+    "timetable",
+    "real",
+    "time",
+    "flight",
+    "api",
+    "flight",
+    "api",
+    "tracking",
+    "api",
+    "iata",
+    "api"
+  ],
+  "author": "Aviation Edge",
+  "license": "MIT"
+}
