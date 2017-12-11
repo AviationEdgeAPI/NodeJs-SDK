@@ -1,5 +1,5 @@
 # NodeJs-SDK
-NodeJS Library for https://aviation-edge.com/
+NodeJs Library for https://aviation-edge.com/
 
 # Installation
 ```
